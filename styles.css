@@ -1,0 +1,22 @@
+div {
+    color: white;
+    background-color: rgb(8, 8, 8);
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+  }
+
+img {
+    height: auto;
+    width: 800px;
+}
+
+.p {
+    font-size: 20px;
+}
+.d1 {
+    font-weight: 700;
+    font-size: 48px;
+    text-shadow: 1cm;
+}
+
+
