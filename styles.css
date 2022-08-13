@@ -1,3 +1,6 @@
+* {
+    border: 2px solid red;
+}
 div {
     color: white;
     background-color: rgb(8, 8, 8);
@@ -7,7 +10,7 @@ div {
 
 img {
     height: auto;
-    width: 800px;
+    width: 500px;
 }
 
 .p {
@@ -17,6 +20,31 @@ img {
     font-weight: 700;
     font-size: 48px;
     text-shadow: 1cm;
+    padding: 10px;
+    height: 100px;
+    width: 800px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 540px;
+}
+
+#nextto {
+    display: inline-block;
+}
+.linkLearn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: fixed; right: 1720px; bottom: 800px;
+}
+
+.linkSocial {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: fixed; right: 1620px; bottom: 800px;
 }
 
 
