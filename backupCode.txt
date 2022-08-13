@@ -1,0 +1,46 @@
+HTML
+<div class="center" id="nextto"><img src="./img/engineerphotocropped.jpg" alt="Photo of me"></div>
+<div class="linkLearn" id="nextto"><a href="https://www.theodinproject.com/">Where I learned</a></div>
+<div class="linkSocial" id="nextto"><a href="./pages/socials.html">Socials</a></div>
+
+<p>This was all self programmed on HTML, CSS, and JS.</p>
+
+CSS
+img {
+    height: auto;
+    width: 500px;
+}
+
+.p {
+    font-size: 20px;
+}
+.d1 {
+    font-weight: 700;
+    font-size: 48px;
+    text-shadow: 1cm;
+    padding: 10px;
+    height: 100px;
+    width: 800px;
+    margin-top: 5px;
+    margin-bottom: 50px;
+    margin-left: 540px;
+}
+
+#nextto {
+    display: inline-block;
+}
+.linkLearn {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: fixed; right: 1720px; bottom: 800px;
+}
+
+.linkSocial {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 22px;
+    margin-left: 0px;
+    margin-top: 0px;
+    position: fixed; right: 1620px; bottom: 800px;
+}
