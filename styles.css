@@ -138,7 +138,15 @@ div {
     white-space: nowrap;
     text-align: center;
 }
-
+#projectDescText {
+    font-size: 20px;
+    -webkit-text-fill-color: rgb(31, 31, 31);
+    font-weight: 700;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    position: relative;
+    white-space: nowrap;
+    text-align: center;
+}
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
 a:hover { text-decoration: none; }
