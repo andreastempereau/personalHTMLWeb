@@ -62,18 +62,16 @@ div {
 }
 
 .projectHeader {
-    height: 100%;
     width: 50%;
     margin-top: 25px;
 }
 .projectHomePage {
     height: 1800px;
+    margin-top: 80px;
     margin-left: 100px;
     margin-right: 100px;
 }
 .project-item {
-    height: 500px;
-    display: block;
     width: 100%;
 }
 .listItem {
@@ -137,15 +135,17 @@ div {
     position: relative;
     white-space: nowrap;
     text-align: center;
+    width: 100%;
 }
 #projectDescText {
     font-size: 20px;
     -webkit-text-fill-color: rgb(31, 31, 31);
-    font-weight: 700;
+    font-weight: 500;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     position: relative;
     white-space: nowrap;
     text-align: center;
+    width: 100%;
 }
 a:link { text-decoration: none; }
 a:visited { text-decoration: none; }
